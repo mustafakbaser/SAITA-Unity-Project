@@ -10,11 +10,7 @@
 </div>
 <br>
 
-Jukebox is a desktop music player application. It is a Java Swing application written in Java language. 
-
-Stores user data and playlist using a MySQL database.
-
-It uses many java libraries. It was developed to give ideas to developers.
+SAITA (it means; Stay Alive in the Arena), is a duello fight game. The fighting logic is simple, an artificial intelligence and a user is fighting. SAITA will be further developed.
 
 If you like this Repo, Please click the :star:
 
