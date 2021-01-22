@@ -1,5 +1,5 @@
-<h1 align="center">Jukebox | Java Swing, MySQL</h1>
-<p align="center"><i>A collection of awesome readme templates to display on your github profile.</i></p>
+<h1 align="center">SAITA | Unity</h1>
+<p align="center"><i>Stay Alive in the Arena</i></p>
 <div align="center">
   <a href="https://github.com/mustafakbaser/SAITA-Unity-Project/stargazers"><img src="https://img.shields.io/github/stars/mustafakbaser/SAITA-Unity-Project" alt="Stars Badge"/></a>
 <a href="https://github.com/mustafakbaser/SAITA-Unity-Project/network/members"><img src="https://img.shields.io/github/forks/mustafakbaser/SAITA-Unity-Project" alt="Forks Badge"/></a>
