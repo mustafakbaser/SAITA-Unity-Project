@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 188f62c93fee2fb4b8563ddec715a119
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Arena
+    100004: Arena_Base Arena_Base polySurface134 polySurface1 arena_flo.000
+    100006: Arena_Base Arena_Base polySurface134 polySurface1 arena_flo.001
+    100008: Arena_Base Arena_Base polySurface134 polySurface1 arena_floor s
+    100010: Arena_Base arena_entrance entrance_door
+    100012: Arena_Base chairs_all
+    100014: Arena_Base Entrance_Sides
+    100016: Arena_Base Entrance_Sides.001
+    100018: Arena_Base Entrance_Sides.002
+    100020: Arena_Base Entrance_Sides.003
+    100022: Arena_Base fence transform39_33
+    100024: Arena_Base polySurface18 walls Arena_Base
+    100026: Arena_Base polySurface18 walls Arena_Base.001
+    100028: Arena_Base pTorus1 fence
+    100030: Arena_Base pTorus1 fence.001
+    100032: Arena_Base ramp
+    100034: Cube
+    100036: Cube.001
+    100038: Cube.002
+    100040: Cube.003
+    100042: Cube.004
+    100044: default_1_1
+    100046: default_1_1.001
+    100048: Entrance_Floor Arena_Base
+    400000: //RootNode
+    400002: Arena
+    400004: Arena_Base Arena_Base polySurface134 polySurface1 arena_flo.000
+    400006: Arena_Base Arena_Base polySurface134 polySurface1 arena_flo.001
+    400008: Arena_Base Arena_Base polySurface134 polySurface1 arena_floor s
+    400010: Arena_Base arena_entrance entrance_door
+    400012: Arena_Base chairs_all
+    400014: Arena_Base Entrance_Sides
+    400016: Arena_Base Entrance_Sides.001
+    400018: Arena_Base Entrance_Sides.002
+    400020: Arena_Base Entrance_Sides.003
+    400022: Arena_Base fence transform39_33
+    400024: Arena_Base polySurface18 walls Arena_Base
+    400026: Arena_Base polySurface18 walls Arena_Base.001
+    400028: Arena_Base pTorus1 fence
+    400030: Arena_Base pTorus1 fence.001
+    400032: Arena_Base ramp
+    400034: Cube
+    400036: Cube.001
+    400038: Cube.002
+    400040: Cube.003
+    400042: Cube.004
+    400044: default_1_1
+    400046: default_1_1.001
+    400048: Entrance_Floor Arena_Base
+    2100000: Cube_1_2
+    2100002: default_1_1
+    2100004: No Name
+    2100006: Body
+    2100008: Platform
+    2100010: Lamp
+    2100012: Fire
+    2100014: Material.002
+    2100016: Material.004
+    2300000: Arena
+    2300002: Arena_Base Arena_Base polySurface134 polySurface1 arena_flo.000
+    2300004: Arena_Base Arena_Base polySurface134 polySurface1 arena_flo.001
+    2300006: Arena_Base Arena_Base polySurface134 polySurface1 arena_floor s
+    2300008: Arena_Base arena_entrance entrance_door
+    2300010: Arena_Base chairs_all
+    2300012: Arena_Base Entrance_Sides
+    2300014: Arena_Base Entrance_Sides.001
+    2300016: Arena_Base Entrance_Sides.002
+    2300018: Arena_Base Entrance_Sides.003
+    2300020: Arena_Base fence transform39_33
+    2300022: Arena_Base polySurface18 walls Arena_Base
+    2300024: Arena_Base polySurface18 walls Arena_Base.001
+    2300026: Arena_Base pTorus1 fence
+    2300028: Arena_Base pTorus1 fence.001
+    2300030: Arena_Base ramp
+    2300032: Cube
+    2300034: Cube.001
+    2300036: Cube.002
+    2300038: Cube.003
+    2300040: Cube.004
+    2300042: default_1_1
+    2300044: default_1_1.001
+    2300046: Entrance_Floor Arena_Base
+    3300000: Arena
+    3300002: Arena_Base Arena_Base polySurface134 polySurface1 arena_flo.000
+    3300004: Arena_Base Arena_Base polySurface134 polySurface1 arena_flo.001
+    3300006: Arena_Base Arena_Base polySurface134 polySurface1 arena_floor s
+    3300008: Arena_Base arena_entrance entrance_door
+    3300010: Arena_Base chairs_all
+    3300012: Arena_Base Entrance_Sides
+    3300014: Arena_Base Entrance_Sides.001
+    3300016: Arena_Base Entrance_Sides.002
+    3300018: Arena_Base Entrance_Sides.003
+    3300020: Arena_Base fence transform39_33
+    3300022: Arena_Base polySurface18 walls Arena_Base
+    3300024: Arena_Base polySurface18 walls Arena_Base.001
+    3300026: Arena_Base pTorus1 fence
+    3300028: Arena_Base pTorus1 fence.001
+    3300030: Arena_Base ramp
+    3300032: Cube
+    3300034: Cube.001
+    3300036: Cube.002
+    3300038: Cube.003
+    3300040: Cube.004
+    3300042: default_1_1
+    3300044: default_1_1.001
+    3300046: Entrance_Floor Arena_Base
+    4300000: default_1_1.001
+    4300002: default_1_1
+    4300004: Arena
+    4300006: Arena_Base Entrance_Sides.003
+    4300008: Arena_Base pTorus1 fence.001
+    4300010: Cube.004
+    4300012: Cube.003
+    4300014: Cube.001
+    4300016: Cube.002
+    4300018: Arena_Base Arena_Base polySurface134 polySurface1 arena_flo.001
+    4300020: Arena_Base polySurface18 walls Arena_Base.001
+    4300022: Arena_Base Entrance_Sides.002
+    4300024: Arena_Base Entrance_Sides.001
+    4300026: Cube
+    4300028: Arena_Base Arena_Base polySurface134 polySurface1 arena_flo.000
+    4300030: Arena_Base fence transform39_33
+    4300032: Arena_Base chairs_all
+    4300034: Arena_Base Entrance_Sides
+    4300036: Arena_Base Arena_Base polySurface134 polySurface1 arena_floor s
+    4300038: Arena_Base ramp
+    4300040: Arena_Base polySurface18 walls Arena_Base
+    4300042: Arena_Base arena_entrance entrance_door
+    4300044: Arena_Base pTorus1 fence
+    4300046: Entrance_Floor Arena_Base
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
